@@ -1,0 +1,5 @@
+{
+  "name": "AI Bookmark Sorter",
+  "description": "Upload your browser bookmarks file, and this application will use AI to suggest a new, organized folder structure. You can then download the sorted bookmarks as a new file, ready to be imported back into your browser.",
+  "requestFramePermissions": []
+}
